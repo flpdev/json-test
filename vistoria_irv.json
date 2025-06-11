@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id_vistoria": 1,
+      "id_irv": 1,
+      "status": "ativo",
+      "data_status": "2025-06-10"
+    },
+    {
+      "id_vistoria": 1,
+      "id_irv": 3,
+      "status": "ativo",
+      "data_status": "2025-06-10"
+    },
+    {
+      "id_vistoria": 1,
+      "id_irv": 4,
+      "status": "ativo",
+      "data_status": "2025-06-10"
+    },
+    {
+      "id_vistoria": 1,
+      "id_irv": 5,
+      "status": "ativo",
+      "data_status": "2025-06-10"
+    },
+    {
+      "id_vistoria": 1,
+      "id_irv": 6,
+      "status": "ativo",
+      "data_status": "2025-06-10"
+    },
+    {
+      "id_vistoria": 1,
+      "id_irv": 7,
+      "status": "ativo",
+      "data_status": "2025-06-10"
+    },
+    {
+      "id_vistoria": 1,
+      "id_irv": 10,
+      "status": "ativo",
+      "data_status": "2025-06-10"
+    },
+    {
+      "id_vistoria": 1,
+      "id_irv": 22,
+      "status": "ativo",
+      "data_status": "2025-06-10"
+    },
+    {
+      "id_vistoria": 1,
+      "id_irv": 24,
+      "status": "ativo",
+      "data_status": "2025-06-10"
+    }
+  ]
+}
