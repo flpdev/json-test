@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "descricao": "Documentos específicos dos SMSCI",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 2,
+      "descricao": "Características gerais do Bloco",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 3,
+      "descricao": "Comercialização de gás combustível e armazenamento de recipientes transportáveis de GLP",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 4,
+      "descricao": "Piscinas e áreas recreativas com opção aquática de lazer",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 5,
+      "descricao": "Estufas de secagem e silos",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 6,
+      "descricao": "Preventivo por extintores",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 7,
+      "descricao": "Hidráulico preventivo",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 8,
+      "descricao": "Detecção e alarme de incêndio",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 9,
+      "descricao": "Iluminação de emergência",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 10,
+      "descricao": "Sinalização para abandono do local",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 11,
+      "descricao": "Chuveiros automáticos (sprinklers)",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 12,
+      "descricao": "Proteção contra descargas atmosféricas (SPDA)",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 13,
+      "descricao": "Controle de fumaça",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 14,
+      "descricao": "Fixo de gases limpos e dióxido de carbono",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 15,
+      "descricao": "Água nebulizada",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 16,
+      "descricao": "Controle de materiais de acabamento e revestimento",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 17,
+      "descricao": "Saldas de emergência",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 18,
+      "descricao": "Acesso de viaturas",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 19,
+      "descricao": "Compartimentação horizontal e vertical",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 20,
+      "descricao": "Instalações de gás combustível",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 21,
+      "descricao": "Instalações elétricas de baixa tensão",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 22,
+      "descricao": "Parque para armazenamentos de líquidos inflamáveis e combustíveis",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 23,
+      "descricao": "Rede pública de hidrantes",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 24,
+      "descricao": "Pátio de contêineres",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 25,
+      "descricao": "Locais onde a liberdade das pessoas sofre restrições",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 26,
+      "descricao": "Fogos de artifícios, explosivos e munições",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 27,
+      "descricao": "Brigada de incêndio",
+      "status": "ativo",
+      "icone": ""
+    },
+    {
+      "id": 28,
+      "descricao": "Plano de emergência",
+      "status": "ativo",
+      "icone": ""
+    }
+  ]
+}
