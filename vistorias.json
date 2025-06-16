@@ -1,0 +1,176 @@
+{
+  "success": true,
+  "message": "Lista de vistorias obtida com sucesso.",
+  "data": [
+    {
+      "protocolo": 2024061601,
+      "tipo_de_vistoria": "funcionamento",
+      "prazo_vistoria": "20/06/2025",
+      "data_vistoria": null,
+      "endereco": {
+        "logradouro": "Rua das Palmeiras",
+        "complemento": "Sala 101",
+        "bairro": "Centro",
+        "cidade": "Várzea Grande",
+        "estado": "MT",
+        "cep": "78110-000"
+      },
+      "status": "na_fila",
+      "telefone_solicitante": "(65) 99999-1234",
+      "auto_infracao": 0
+    },
+    {
+      "protocolo": 2024061602,
+      "tipo_de_vistoria": "habitese",
+      "prazo_vistoria": "22/06/2025",
+      "data_vistoria": null,
+      "endereco": {
+        "logradouro": "Av. Brasil",
+        "complemento": "Bloco B, Apto 204",
+        "bairro": "Jardim Imperial",
+        "cidade": "Várzea Grande",
+        "estado": "MT",
+        "cep": "78120-300"
+      },
+      "status": "em_andamento",
+      "telefone_solicitante": "(65) 98888-5678",
+      "auto_infracao": 0
+    },
+    {
+      "protocolo": 2024061603,
+      "tipo_de_vistoria": "ex_oficio",
+      "prazo_vistoria": "23/06/2025",
+      "data_vistoria": null,
+      "endereco": {
+        "logradouro": "Rua Dom Bosco",
+        "complemento": "Prédio Administrativo",
+        "bairro": "Centro-Sul",
+        "cidade": "Cuiabá",
+        "estado": "MT",
+        "cep": "78005-300"
+      },
+      "status": "na_fila",
+      "telefone_solicitante": "(65) 97777-1122",
+      "auto_infracao": 0
+    },
+    {
+      "protocolo": 2024061604,
+      "tipo_de_vistoria": "funcionamento",
+      "prazo_vistoria": "25/06/2025",
+      "data_vistoria": null,
+      "endereco": {
+        "logradouro": "Rua das Flores",
+        "complemento": "Loja 05",
+        "bairro": "Cristo Rei",
+        "cidade": "Várzea Grande",
+        "estado": "MT",
+        "cep": "78130-100"
+      },
+      "status": "em_andamento",
+      "telefone_solicitante": "(65) 96666-3344",
+      "auto_infracao": 0
+    },
+    {
+      "protocolo": 2024061605,
+      "tipo_de_vistoria": "habitese",
+      "prazo_vistoria": "15/06/2025",
+      "data_vistoria": "14/06/2025",
+      "endereco": {
+        "logradouro": "Rua dos Lírios",
+        "complemento": "Casa 03",
+        "bairro": "Jardim Glória",
+        "cidade": "Várzea Grande",
+        "estado": "MT",
+        "cep": "78130-200"
+      },
+      "status": "parecer_pendente",
+      "telefone_solicitante": "(65) 95555-7788",
+      "auto_infracao": 0
+    },
+    {
+      "protocolo": 2024061606,
+      "tipo_de_vistoria": "funcionamento",
+      "prazo_vistoria": "18/06/2025",
+      "data_vistoria": "16/06/2025",
+      "endereco": {
+        "logradouro": "Avenida Fernando Corrêa",
+        "complemento": "Loja 02",
+        "bairro": "Coxipó",
+        "cidade": "Cuiabá",
+        "estado": "MT",
+        "cep": "78080-400"
+      },
+      "status": "deferida",
+      "telefone_solicitante": "(65) 91111-4455",
+      "auto_infracao": 0
+    },
+    {
+      "protocolo": 2024061607,
+      "tipo_de_vistoria": "ex_oficio",
+      "prazo_vistoria": "17/06/2025",
+      "data_vistoria": "15/06/2025",
+      "endereco": {
+        "logradouro": "Rua Amazonas",
+        "complemento": "Fundos",
+        "bairro": "Ponte Nova",
+        "cidade": "Várzea Grande",
+        "estado": "MT",
+        "cep": "78140-400"
+      },
+      "status": "indeferida",
+      "telefone_solicitante": "(65) 92222-5566",
+      "auto_infracao": 1
+    },
+    {
+      "protocolo": 2024061608,
+      "tipo_de_vistoria": "habitese",
+      "prazo_vistoria": "19/06/2025",
+      "data_vistoria": "17/06/2025",
+      "endereco": {
+        "logradouro": "Rua dos Cravos",
+        "complemento": "Casa 07",
+        "bairro": "Jardim Cuiabá",
+        "cidade": "Cuiabá",
+        "estado": "MT",
+        "cep": "78043-330"
+      },
+      "status": "parecer_pendente",
+      "telefone_solicitante": "(65) 93333-6677",
+      "auto_infracao": 0
+    },
+    {
+      "protocolo": 2024061609,
+      "tipo_de_vistoria": "funcionamento",
+      "prazo_vistoria": "21/06/2025",
+      "data_vistoria": "18/06/2025",
+      "endereco": {
+        "logradouro": "Rua Pernambuco",
+        "complemento": "Galpão",
+        "bairro": "Centro",
+        "cidade": "Várzea Grande",
+        "estado": "MT",
+        "cep": "78110-200"
+      },
+      "status": "deferida",
+      "telefone_solicitante": "(65) 94444-7788",
+      "auto_infracao": 0
+    },
+    {
+      "protocolo": 2024061610,
+      "tipo_de_vistoria": "ex_oficio",
+      "prazo_vistoria": "20/06/2025",
+      "data_vistoria": "16/06/2025",
+      "endereco": {
+        "logradouro": "Av. Miguel Sutil",
+        "complemento": "Térreo",
+        "bairro": "Jardim das Américas",
+        "cidade": "Cuiabá",
+        "estado": "MT",
+        "cep": "78060-000"
+      },
+      "status": "indeferida",
+      "telefone_solicitante": "(65) 95555-8899",
+      "auto_infracao": 0
+    }
+  ]
+}
