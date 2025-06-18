@@ -38,7 +38,7 @@
     },
     {
       "protocolo": 2024061603,
-      "tipo_de_vistoria": "ex_oficio",
+      "tipo_de_vistoria": "ex_officio",
       "prazo_vistoria": "23/06/2025",
       "data_vistoria": null,
       "endereco": {
@@ -106,7 +106,7 @@
     },
     {
       "protocolo": 2024061607,
-      "tipo_de_vistoria": "ex_oficio",
+      "tipo_de_vistoria": "ex_officio",
       "prazo_vistoria": "17/06/2025",
       "data_vistoria": "15/06/2025",
       "endereco": {
@@ -157,7 +157,7 @@
     },
     {
       "protocolo": 2024061610,
-      "tipo_de_vistoria": "ex_oficio",
+      "tipo_de_vistoria": "ex_officio",
       "prazo_vistoria": "20/06/2025",
       "data_vistoria": "16/06/2025",
       "endereco": {
