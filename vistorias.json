@@ -21,7 +21,7 @@
     },
     {
       "protocolo": 2024061602,
-      "tipo_de_vistoria": "habitese",
+      "tipo_de_vistoria": "habite_se",
       "prazo_vistoria": "22/06/2025",
       "data_vistoria": null,
       "endereco": {
@@ -72,7 +72,7 @@
     },
     {
       "protocolo": 2024061605,
-      "tipo_de_vistoria": "habitese",
+      "tipo_de_vistoria": "habite_se",
       "prazo_vistoria": "15/06/2025",
       "data_vistoria": "14/06/2025",
       "endereco": {
@@ -123,7 +123,7 @@
     },
     {
       "protocolo": 2024061608,
-      "tipo_de_vistoria": "habitese",
+      "tipo_de_vistoria": "habite_se",
       "prazo_vistoria": "19/06/2025",
       "data_vistoria": "17/06/2025",
       "endereco": {
