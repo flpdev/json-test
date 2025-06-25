@@ -1,0 +1,95 @@
+{
+  "vistoriaId": 0991,
+  "documents": [
+    {
+      "id": "doc001",
+      "name": "Nome do documento no SCI / Nome do arquivo 1",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/1748865807.jpg",
+      "category": "PROJETO",
+      "downloaded": false,
+      "size": "2.5 MB",
+      "uploadDate": "2024-06-01T10:00:00Z",
+      "mimeType": "application/pdf"
+    },
+    {
+      "id": "doc002",
+      "name": "Nome do documento no SCI / Nome do arquivo 2",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/projeto_arquitetonico.pdf",
+      "category": "PROJETO",
+      "downloaded": false,
+      "size": "2.5 MB",
+      "uploadDate": "2024-06-01T10:00:00Z",
+      "mimeType": "application/pdf"
+    },
+    {
+      "id": "doc003",
+      "name": "Nome do documento no SCI / Nome do arquivo 3",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/projeto_arquitetonico.pdf",
+      "category": "PROJETO",
+      "downloaded": false,
+      "size": "2.5 MB",
+      "uploadDate": "2024-06-01T10:00:00Z",
+      "mimeType": "application/pdf"
+    },
+    {
+      "id": "doc004",
+      "name": "Nome do documento no SCI / Nome do arquivo 1",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/fotomonique.jpg",
+      "category": "REQUERIMENTO",
+      "downloaded": true,
+      "size": "1.2 MB",
+      "uploadDate": "2024-05-28T14:30:00Z",
+      "mimeType": "application/pdf"
+    },
+     {
+      "id": "doc005",
+      "name": "Nome do documento no SCI / Nome do arquivo 2",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/requerimento_aprovacao.pdf",
+      "category": "REQUERIMENTO",
+      "downloaded": true,
+      "size": "1.2 MB",
+      "uploadDate": "2024-05-28T14:30:00Z",
+      "mimeType": "application/pdf"
+    },
+     {
+      "id": "doc006",
+      "name": "Nome do documento no SCI / Nome do arquivo 3",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/requerimento_aprovacao.pdf",
+      "category": "REQUERIMENTO",
+      "downloaded": true,
+      "size": "1.2 MB",
+      "uploadDate": "2024-05-28T14:30:00Z",
+      "mimeType": "application/pdf"
+    },
+    {
+      "id": "doc007",
+      "name": "Nome do documento no SCI / Nome do arquivo 1",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/memorando_tecnico.pdf",
+      "category": "DIVERSOS",
+      "downloaded": false,
+      "size": "3.1 MB",
+      "uploadDate": "2024-06-10T08:45:00Z",
+      "mimeType": "application/pdf"
+    },
+    {
+      "id": "doc008",
+      "name": "Nome do documento no SCI / Nome do arquivo 2",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/memorando_tecnico.pdf",
+      "category": "DIVERSOS",
+      "downloaded": false,
+      "size": "3.1 MB",
+      "uploadDate": "2024-06-10T08:45:00Z",
+      "mimeType": "application/pdf"
+    },
+    {
+      "id": "doc009",
+      "name": "Nome do documento no SCI / Nome do arquivo 3",
+      "url": "https://jul10-m4rt1n2.github.io/vistoria-api-mock/docs/memorando_tecnico.pdf",
+      "category": "DIVERSOS",
+      "downloaded": false,
+      "size": "3.1 MB",
+      "uploadDate": "2024-06-10T08:45:00Z",
+      "mimeType": "application/pdf"
+    }
+  ]
+}
